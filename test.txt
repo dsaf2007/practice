@@ -2,6 +2,7 @@
 
 int main()
 {
-	std::cout << "야 기분좋다!" << std::endl:
+	std::cout << "딱 좋다 이기야" << std::endl:
+
 	return 0;
 }
