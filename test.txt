@@ -2,6 +2,6 @@
 
 int main()
 {
-	std::cout << "I Feel So Good" << std::endl:
+	std::cout << "야 기분좋다!" << std::endl:
 	return 0;
 }
