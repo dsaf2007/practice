@@ -2,7 +2,6 @@
 
 int main()
 {
-	std::cout << "섹스" std::endl:
-
+	std::cout << "World" << std::endl:
 	return 0;
 }
