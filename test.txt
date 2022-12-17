@@ -2,7 +2,7 @@
 
 int main()
 {
-	std::cout << "딱 좋다 이기야" << std::endl:
+	std::cout << "섹스" std::endl:
 
 	return 0;
 }
